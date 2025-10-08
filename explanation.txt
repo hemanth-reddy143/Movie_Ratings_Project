@@ -1,0 +1,1 @@
+The Mapper parses ratings.csv to emit <movieId, rating> pairs. The Reducer computes the average rating per movie. Due to Hadoop setup issues, theoretical output is provided (e.g., 296,4.5).
